@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug in MATLAB related to the unexpected behavior of elseif statements when the if condition is neither true nor false, leading to potentially incorrect results. The bug.m file contains the problematic code. The bugSolution.m file provides a corrected version.
